@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **vue, nuxt, laravel, express, svelte**
 
-- 📫 How to reach me **hasan.almujtaba01@gmail.com**
+- 📫 How to reach me **hasan@hasanproject.com**
 
 - 📄 Know about my experiences [https://my.hasanproject.com](https://my.hasanproject.com)
 
