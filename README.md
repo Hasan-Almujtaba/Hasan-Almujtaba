@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasan-Almujtaba](https://github.com/Hasan-Almujtaba)
 
-- 📝 I regularly write articles on [https://blog.hasanproject.com](https://blog.hasanproject.com)
+- 📝 I regularly write articles on [https://ercodes.com](https://ercodes.com)
 
 - 💬 Ask me about **vue, nuxt, laravel, express, svelte**
 
-- 📫 How to reach me **hasan@hasanproject.com**
+- 📫 How to reach me **hasan.almujtaba01@gmail.com**
 
-- 📄 Know about my experiences [https://my.hasanproject.com](https://my.hasanproject.com)
+- 📄 Know about my experiences [https://hasanproject.com](https://hasanproject.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
