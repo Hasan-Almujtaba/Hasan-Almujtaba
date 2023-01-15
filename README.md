@@ -17,4 +17,4 @@ const aboutMe = {
 
 ### :chart_with_upwards_trend: Github Stats
 
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-almujtaba&show_icons=true&theme=transparent)](https://github.com/hasan-almujtaba/github-readme-stats)
+[![Hasan's GitHub stats](https://hasan-github-stats.vercel.app/api?username=hasan-almujtaba&show_icons=true&theme=transparent)](https://github.com/hasan-almujtaba/github-readme-stats)
